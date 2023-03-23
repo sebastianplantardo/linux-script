@@ -14,17 +14,7 @@
 # Output : display if the integer given by player is lower, equal to or higher than the mystery number. Up to 10 attempts.
 #
 ####################
-  GNU nano 6.2                                                                            guess.sh                                                                                     
-# Script : guess.sh
-#
-# Description : the script select a random integer (called mystery number) up to 1000.
-#       Player has 10 attempts to find this mystery number.
-#
-# Input : none
-#
-# Output : display if the integer given by player is lower, equal to or higher than the mystery number. Up to 10 attempts.
-#
-####################
+
 
 # Max attepmts 
 attempNb=10
